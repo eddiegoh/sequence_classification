@@ -15,6 +15,9 @@ What had been done were
 2) Clean up the code to make it more maintainable
 3) Added in new features 
 4) Provided more comments in the code for better understanding
+5) Implemented keras sequential model - stacked LSTM - reference from Keras api doc
+6) Implement confusion matrix to visualise the result
+
   
 
 
